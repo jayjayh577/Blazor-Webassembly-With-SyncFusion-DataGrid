@@ -2,4 +2,4 @@
 
 Using NET 7
 
-The DotNet Bin Foldet Is not Included in Project
+The DotNet Bin Folder Is not Included in Project
